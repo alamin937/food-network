@@ -11,8 +11,8 @@ body{
     margin-left:12%;
 }
 .food-derlivery-img{
-    width:25%;
-    margin-left:7%;
+    width:23%;
+    margin-left:9%;
 }
 .food-derlivery-img img{
     width:100%;
@@ -43,7 +43,7 @@ body{
     margin-left:12%;
 }
 .about-pic{
-    width:30%;
+    width:25%;
     margin-left:10%;
 }
 .about-pic img{
@@ -67,7 +67,30 @@ body{
     width:40%;
     display: block;
     margin:0 auto;
+    margin-top:10%;
 }
 .recipie h2{
     text-align: center;
+    color:purple
+}
+.recipie-title-area{
+    display: flex;
+    margin-top:7%;
+    margin-left:10%;
+}
+.recipie-img{
+    width:90%;
+    margin:0 auto;
+    margin-top:7%;
+}
+.recipie-img img{
+    width:100%;
+    border-radius:20px;
+}
+.recipe-title{
+    width:20%;
+    box-shadow: 10px 10px 40px grey;
+    padding:0 10px;
+    margin-left:4%;
+    border-radius:20px;
 }
