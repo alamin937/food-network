@@ -10,6 +10,9 @@ body{
     width:30%;
     margin-left:12%;
 }
+hr{
+    border-top:4px solid;
+}
 .food-derlivery-img{
     width:23%;
     margin-left:9%;
@@ -93,4 +96,21 @@ body{
     padding:0 10px;
     margin-left:4%;
     border-radius:20px;
+}
+.footer-area{
+    background-color: black;
+}
+.food{
+    color:orange;
+}
+.footer-area h2{
+    color:red;
+}
+.footer-area p{
+    color:white;
+}
+.footer-area{
+    text-align: center;
+    padding:30px 0;
+    margin-top:5%;
 }
