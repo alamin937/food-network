@@ -1,0 +1,73 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+}
+.food-network{
+    display: flex;
+    margin-top:7%;
+}
+.diet{
+    width:30%;
+    margin-left:12%;
+}
+.food-derlivery-img{
+    width:25%;
+    margin-left:7%;
+}
+.food-derlivery-img img{
+    width:100%;
+}
+.skip-name{
+    color:orange;
+}
+.diet h1{
+    margin:0;
+    color:darkgrey;
+}
+.diet a{
+    text-decoration: none;
+    background-image: linear-gradient(white,red);
+    padding:10px 30px;
+    color:black;
+    border-radius:15px;
+}
+.diet p{
+    margin-bottom: 8%;
+}
+.about-area{
+    display: flex;
+    margin-top:10%;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    width:90%;
+    margin-left:12%;
+}
+.about-pic{
+    width:30%;
+    margin-left:10%;
+}
+.about-pic img{
+    width:100%;
+}
+.about-me{
+    width:30%;
+    margin-left:7%;
+}
+.about-me a{
+    text-decoration: none;
+    background-image: linear-gradient(grey,green);
+    padding:10px 30px;
+    color:white;
+    border-radius:15px;
+}
+.about-me h2{
+    color:orchid;
+}
+.recipie {
+    width:40%;
+    display: block;
+    margin:0 auto;
+}
+.recipie h2{
+    text-align: center;
+}
